@@ -1,6 +1,6 @@
 thank you for reading
 --
-this is not the .txt file with my steps
+this is now the .txt file with my steps
 > created repo on git hub
 > mkdir basic_repo
 > git init
@@ -13,3 +13,6 @@ this is not the .txt file with my steps
 > git remote add origin https://github.com/hannahkelley/basic_repo.git
 > git pish -u origin master
 > changing THIS FILE locally
+> pushed readme.txt to git
+> edited readme.txt to finish steps
+> pushing readme.txt to git again with these updates
